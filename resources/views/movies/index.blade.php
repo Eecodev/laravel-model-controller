@@ -14,6 +14,7 @@
                             <div class="card-body">
                                 <h5 class="card-title">{{$movie->title}}</h5>
                                 <p class="card-title">{{ $movie->original_title }}</p>
+                                <span>{{ $movie->vote}}</span>
                                 <a href="#" class="btn btn-success">Info</a>
                             </div>
                         </div>
