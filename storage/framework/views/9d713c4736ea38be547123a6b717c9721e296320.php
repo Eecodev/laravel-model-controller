@@ -1,0 +1,1 @@
+<div>Footer</div><?php /**PATH /Users/mahdinasser/Desktop/Esercizi_Boolean/template_laravel_base/resources/views/partials/footer.blade.php ENDPATH**/ ?>

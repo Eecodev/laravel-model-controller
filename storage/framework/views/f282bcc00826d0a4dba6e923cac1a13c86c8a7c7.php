@@ -1,0 +1,1 @@
+<div>Header <i class="fa fa-home"></i></div><?php /**PATH /Users/mahdinasser/Desktop/Esercizi_Boolean/template_laravel_base/resources/views/partials/header.blade.php ENDPATH**/ ?>
